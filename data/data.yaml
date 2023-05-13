@@ -1,0 +1,5 @@
+train: /usr/src/datasets/images/train
+val: /usr/src/datasets/images/train
+
+nc: 1
+names: ['reimu']
